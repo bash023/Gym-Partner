@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>989552215832-r7uk69c3od51mffq3irna6l14vocu9a4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.989552215832-r7uk69c3od51mffq3irna6l14vocu9a4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBR_HZ7UY6BDy9rIL0m4A8ZsXuBwbi4m_8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>989552215832</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>maplin.Gym-partner</string>
+	<key>PROJECT_ID</key>
+	<string>gym-partner-90527</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gym-partner-90527.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:989552215832:ios:adbc565a0a6406e2</string>
+	<key>DATABASE_URL</key>
+	<string>https://gym-partner-90527.firebaseio.com</string>
+</dict>
+</plist>

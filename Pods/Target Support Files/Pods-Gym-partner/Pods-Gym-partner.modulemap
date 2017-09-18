@@ -1,0 +1,6 @@
+framework module Pods_Gym_partner {
+  umbrella header "Pods-Gym-partner-umbrella.h"
+
+  export *
+  module * { export * }
+}
